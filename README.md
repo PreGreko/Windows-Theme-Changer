@@ -11,5 +11,5 @@
 python changer.py (1 or 0)
 ```
 
-#Demo
+#Demo(Quality Is Shit For Some Reason I Will Fix It A.S.A.P)
 ![Demo](https://github.com/PreGreko/Windows-Theme-Changer/blob/main/resources/demo.gif)

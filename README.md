@@ -1,2 +1,14 @@
-# Windows-Theme-Changer
-This is a python tool which helps you to change your windows theme (light or dark) without activating your windows
+#Windows Theme Changer (Light-Dark)
+	Change Your Windows Theme From Light To Dark Easily Without The Need Of Activating Windows.
+	It Works Like Changing Theme Instant From Settings > Personalization
+
+#Requirements So You Can Use This "Tool"
+	The Only Thing You Will Need To Use This "Tool" Is Python 3
+
+#Usage Of The "Tool"
+
+```
+python changer.py (1 or 0)
+```
+
+#demo

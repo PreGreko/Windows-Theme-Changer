@@ -11,4 +11,5 @@
 python changer.py (1 or 0)
 ```
 
-#demo
+#Demo
+![Demo](https://github.com/PreGreko/Windows-Theme-Changer/blob/main/resources/demo.gif)
